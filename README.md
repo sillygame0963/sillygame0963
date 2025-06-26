@@ -1,47 +1,70 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sillygame0963.sillygame0963" />
+<!-- GitHub Profile README for Sammy -->
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Thai+Son!;" />
+  Hi there 👋, I'm <span style="color:#ff5e57">Sammy</span>!
 </h1>
 
-<h3 align="center">Shikanoko noko noko koishitantan</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=435&lines=AI+Engineer+%F0%9F%A7%AC;Machine+Learning+%7C+Deep+Learning+%7C+LLMs;Love+for+Code%2C+Creativity%2C+and+Coffee+%E2%98%95%EF%B8%8F" alt="Typing SVG" />
+</p>
 
-<br/>
+---
+
+## 🧠 About Me
+
+I'm an AI engineer with a strong passion for building intelligent systems, deploying large language models, and experimenting with cutting-edge AI technologies. I thrive at the intersection of data, algorithms, and creative problem-solving.
+
+---
+
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![LangChain](https://img.shields.io/badge/-LangChain-000?style=for-the-badge&logo=OpenAI&logoColor=white)
+![LLM](https://img.shields.io/badge/-LLM-0096FF?style=for-the-badge)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge)
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
- 
- 🔭 I’m currently studing in **University of Information Technology -HCMU**
- 
- 🌱 I’m currently learning **C#, .NET, Java, Python, Machine Learning**
-
- </div>
- 
-<div align="center"> 
-  <a href="mailto:sillygame0963@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sammy&show_icons=true&theme=radical" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sammy&theme=dark" width="47%" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sammy&layout=compact&theme=tokyonight" />
 </div>
 
-<hr/>
+---
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,mui,html,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,nextjs,mysql,flask,tensorflow,vscode" /><br>
-</div>
+## 🔗 Connect With Me
 
-<hr/>
+<!-- Replace # with your actual links -->
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](#)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](#)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?logo=firefox&logoColor=white&style=for-the-badge)](#)
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align="center">
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=sillygame0963&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=sillygame0963&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sillygame0963&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
+---
 
-<br/><br/>
+## 🚀 Featured Projects
 
-<hr/>
+*Coming soon…*
+
+---
+
+## ⚡ Fun Stats & Widgets
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Sammy&label=Profile+Visits&color=0e75b6&style=flat-square)
+
+![Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Sammy&theme=react-dark)
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
+
