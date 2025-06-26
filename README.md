@@ -1,4 +1,4 @@
-<!-- GitHub Profile README for Sammy -->
+<!-- GitHub Profile README for Sammy (sillygame0963) -->
 
 <h1 align="center">
   Hi there 👋, I'm <span style="color:#ff5e57">Sammy</span>!
@@ -35,10 +35,10 @@ I'm an AI engineer with a strong passion for building intelligent systems, deplo
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sammy&show_icons=true&theme=radical" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sammy&theme=dark" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sillygame0963&show_icons=true&theme=radical" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sillygame0963&theme=dark" width="47%" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sammy&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sillygame0963&layout=compact&theme=tokyonight" />
 </div>
 
 ---
@@ -60,11 +60,10 @@ I'm an AI engineer with a strong passion for building intelligent systems, deplo
 
 ## ⚡ Fun Stats & Widgets
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Sammy&label=Profile+Visits&color=0e75b6&style=flat-square)
+![Visitor Count](https://komarev.com/ghpvc/?username=sillygame0963&label=Profile+Visits&color=0e75b6&style=flat-square)
 
-![Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Sammy&theme=react-dark)
+![Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=sillygame0963&theme=react-dark)
 
 ---
 
 > “Code is like humor. When you have to explain it, it’s bad.” — Cory House
-
