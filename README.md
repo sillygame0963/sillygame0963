@@ -43,6 +43,29 @@ I'm an AI engineer with a strong passion for building intelligent systems, deplo
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sillygame0963&theme=radical&column=7&margin-w=10" alt="trophies">
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/sillygame0963/sillygame0963/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🔢 Total Contributions Counter
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sillygame0963&label=Profile+Views&color=0e75b6&style=flat-square" alt="profile-views" />
+  <img src="https://badges.pufler.dev/commits/monthly/sillygame0963" alt="monthly commits">
+</p>
+
+---
+
 ## 🔗 Connect With Me
 
 <!-- Replace # with your actual links -->
@@ -55,14 +78,6 @@ I'm an AI engineer with a strong passion for building intelligent systems, deplo
 ## 🚀 Featured Projects
 
 *Coming soon…*
-
----
-
-## ⚡ Fun Stats & Widgets
-
-![Visitor Count](https://komarev.com/ghpvc/?username=sillygame0963&label=Profile+Visits&color=0e75b6&style=flat-square)
-
-![Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=sillygame0963&theme=react-dark)
 
 ---
 
